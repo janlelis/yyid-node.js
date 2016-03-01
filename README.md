@@ -14,7 +14,7 @@ $ npm install yyid-node
 ## Usage
 
 ```javascript
-yyid = require('yyid');
+var yyid = require('yyid');
 yyid(); // => '5ebd4295-92a2-c98b-9103-b1e5d16f2bfa'
 ```
 
