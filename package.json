@@ -8,14 +8,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "karma": "^0.13.10",
-		"karma-jasmine": "~0.3",
-    "karma-chrome-launcher": "^0.2.0",
-    "karma-firefox-launcher": "^0.1.6",
     "jasmine": "~2.3"
   },
   "scripts": {
-    "test": "jasmine && karma start"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
