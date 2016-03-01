@@ -1,6 +1,6 @@
 {
   "name": "yyid-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a random uuid-like string (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx) via crypto.randomBytes",
   "main": "index.js",
   "directories": {
