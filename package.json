@@ -1,7 +1,7 @@
 {
-  "name": "yyid",
+  "name": "yyid-node",
   "version": "0.1.0",
-  "description": "Generates random tokens that look like type 4 UUIDs: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "description": "Generates a random uuid-like string (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx) via crypto.randomBytes",
   "main": "yyid.js",
   "directories": {
     "spec": "spec"
@@ -15,12 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/janlelis/yyid.js.git"
+    "url": "git://github.com/janlelis/yyid-node.js.git"
   },
-  "homepage": "https://github.com/janlelis/yyid.js",
+  "homepage": "https://github.com/janlelis/yyid-node.js",
   "keywords": [
     "uuid",
-    "random"
+    "random",
+    "crypto"
   ],
   "author": {
     "name": "Jan Lelis",
