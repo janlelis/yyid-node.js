@@ -20,13 +20,14 @@
   "homepage": "https://github.com/janlelis/yyid-node.js",
   "keywords": [
     "uuid",
+    "yyid",
     "random",
     "crypto"
   ],
   "author": {
     "name": "Jan Lelis",
-    "email": "mail@janlelis.de",
-    "url": "http://janlelis.com"
+    "email": "hi@ruby.consulting",
+    "url": "https://janlelis.com"
   },
   "license": "MIT"
 }
