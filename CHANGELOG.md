@@ -2,7 +2,7 @@
 
 ## v1.0.2
 
-- Remove travis
+- Remove travis, add GitHub CI
 
 ## v1.0.1
 

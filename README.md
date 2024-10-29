@@ -1,4 +1,4 @@
-# YYID for Node.js
+# YYID for Node.js [![[ci]](https://github.com/janlelis/yyid-node.js/workflows/Test/badge.svg)](https://github.com/janlelis/yyid-node.js/actions?query=workflow%3ATest)
 
 - Generates a [UUID#4](https://en.wikipedia.org/wiki/Universally_unique_identifier#Version_4_.28random.29)-like random string, but in contrast to [RFC 4122](https://tools.ietf.org/rfc/rfc4122.txt), omits the static bits
 - Format: `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx` (128bit randomness)
